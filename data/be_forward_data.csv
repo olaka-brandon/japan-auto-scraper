@@ -1,61 +1,61 @@
-title,price,total_price,year,mileage
-HINO Ranger,"Price $3,800","Total Price $15,691 C&F Mombasa (RORO)",Year: 2006 / 11,"Mileage: 876,168 km"
-TOYOTA Regiusace Van,"Price $10,290","Total Price $12,843 C&F Mombasa (RORO)",Year: 2016 / 3,"Mileage: 288,671 km"
-HONDA Fit,"Price $2,060","Total Price $4,013 C&F Mombasa (RORO)",Year: 2013 / 9,"Mileage: 124,321 km"
-HONDA Fit,"Price $3,460","Total Price $5,413 C&F Mombasa (RORO)",Year: 2015 / 2,"Mileage: 60,805 km"
-HINO Dutro,"Price $6,360","Total Price $8,944 C&F Mombasa (RORO)",Year: 2002 / 5,"Mileage: 192,000 km"
-HONDA Shuttle,"Price $3,370","Total Price $5,470 C&F Mombasa (RORO)",Year: 2016 / 3,"Mileage: 221,255 km"
-NISSAN JUKE,"Price $2,240","Total Price $4,345 C&F Mombasa (RORO)",Year: 2010 / 11,"Mileage: 120,028 km"
-HONDA Fit,"Price $2,240","Total Price $4,180 C&F Mombasa (RORO)",Year: 2012 / 3,"Mileage: 101,104 km"
-TOYOTA Harrier,"Price $3,720","Total Price $6,024 C&F Mombasa (RORO)",Year: 1999 / 1,"Mileage: 126,038 km"
-TOYOTA Avensis Wagon,"Price $3,210","Total Price $5,407 C&F Mombasa (RORO)",Year: 2015 / 5,"Mileage: 148,675 km"
-HONDA Odyssey,"Price $3,950","Total Price $6,477 C&F Mombasa (RORO)",Year: 2016 / 8,"Mileage: 159,479 km"
-SUBARU Impreza G4,"Price $3,450","Total Price $5,573 C&F Mombasa (RORO)",Year: 2016 / 12,"Mileage: 149,961 km"
-JEEP Wrangler,"Price $3,620","Total Price $5,805 C&F Mombasa (RORO)",Year: 2003 / 7,"Mileage: 127,635 km"
-TOYOTA Land Cruiser Prado,"Price $8,650","Total Price $11,357 C&F Mombasa (RORO)",Year: 2005 / 11,"Mileage: 234,923 km"
-TOYOTA Townace Truck,"Price $2,610","Total Price $5,099 C&F Mombasa (RORO)",Year: 2007 / 3,"Mileage: 134,137 km"
-TOYOTA Regius Wagon,"Price $3,850","Total Price $6,410 C&F Mombasa (RORO)",Year: 1998 / 7,"Mileage: 143,406 km"
-TOYOTA Blade,"Price $2,240","Total Price $4,248 C&F Mombasa (RORO)",Year: 2007 / 12,"Mileage: 82,962 km"
-SUZUKI Swift,"Price $1,300","Total Price $3,066 C&F Mombasa (RORO)",Year: 2007 / 5,"Mileage: 86,806 km"
-TOYOTA RAV4,,,Year: 2020 / 11,"Mileage: 62,970 km"
-HONDA Fit,"Price $7,640","Total Price $9,529 C&F Mombasa (RORO)",Year: 2020 / 5,"Mileage: 103,000 km"
-TOYOTA Hiace Van,"Price $6,130","Total Price $8,983 C&F Mombasa (RORO)",Year: 2009 / 5,"Mileage: 116,695 km"
-TOYOTA Probox Van,"Price $2,540","Total Price $4,524 C&F Mombasa (RORO)",Year: 2008 / 5,"Mileage: 189,878 km"
-MERCEDES-BENZ CLA-Class,"Price $8,150","Total Price $10,233 C&F Mombasa (RORO)",Year: 2015 / 4,"Mileage: 109,326 km"
-TOYOTA Toyoace Route Van,"Price $3,150","Total Price $5,755 C&F Mombasa (RORO)",Year: 2010 / 12,"Mileage: 138,310 km"
-TOYOTA Hiace Van,"Price $5,060","Total Price $7,671 C&F Mombasa (RORO)",Year: 2003 / 8,"Mileage: 312,582 km"
-TOYOTA Dyna Truck,"Price $4,720","Total Price $7,593 C&F Mombasa (RORO)",Year: 2014 / 5,"Mileage: 394,529 km"
-TOYOTA Toyoace,"Price $3,780","Total Price $6,333 C&F Mombasa (RORO)",Year: 2003 / 12,"Mileage: 144,980 km"
-TOYOTA Toyoace,"Price $3,650","Total Price $6,203 C&F Mombasa (RORO)",Year: 2003 / 11,"Mileage: 179,910 km"
-HONDA Acty Truck,"Price $1,100","Total Price $2,710 C&F Mombasa (RORO)",Year: 1996,"Mileage: 208,835 km"
-NISSAN Atlas,"Price $4,320","Total Price $6,910 C&F Mombasa (RORO)",Year: 2014 / 6,"Mileage: 283,017 km"
-TOYOTA Hiace Van,"Price $5,730","Total Price $8,254 C&F Mombasa (RORO)",Year: 2012 / 10,"Mileage: 284,288 km"
-TOYOTA Dyna Truck,"Price $6,200","Total Price $8,815 C&F Mombasa (RORO)",Year: 2014 / 1,"Mileage: 261,411 km"
-MAZDA Titan Dash,"Price $2,910","Total Price $5,531 C&F Mombasa (RORO)",Year: 2003 / 12,"Mileage: 49,218 km"
-ISUZU Elf Truck,"Price $4,190","Total Price $12,038 C&F Mombasa (RORO)",Year: 2019 / 1,"Mileage: 442,000 km"
-BMW MINI Clubman,"Price $1,940","Total Price $3,837 C&F Mombasa (RORO)",Year: 2010 / 12,"Mileage: 119,867 km"
-TOYOTA Voxy,"Price $2,110","Total Price $4,576 C&F Mombasa (RORO)",Year: 2013 / 10,"Mileage: 182,673 km"
-NISSAN Primera Wagon,"Price $2,270","Total Price $4,261 C&F Mombasa (RORO)",Year: 1998 / 5,"Mileage: 32,920 km"
-TOYOTA Noah,"Price $2,000","Total Price $4,393 C&F Mombasa (RORO)",Year: 2010 / 7,"Mileage: 92,532 km"
-NISSAN Murano,"Price $2,410","Total Price $4,980 C&F Mombasa (RORO)",Year: 2014 / 2,"Mileage: 218,874 km"
-SUBARU Impreza G4,"Price $1,900","Total Price $3,948 C&F Mombasa (RORO)",Year: 2014 / 3,"Mileage: 114,261 km"
-TOYOTA Succeed Van,"Price $2,410","Total Price $4,393 C&F Mombasa (RORO)",Year: 2004 / 5,"Mileage: 196,243 km"
-TOYOTA Mark X Zio,"Price $2,110","Total Price $4,409 C&F Mombasa (RORO)",Year: 2012 / 1,"Mileage: 112,954 km"
-NISSAN Elgrand,"Price $1,870","Total Price $4,644 C&F Mombasa (RORO)",Year: 2011 / 9,"Mileage: 143,300 km"
-SUBARU Impreza,"Price $2,470","Total Price $4,551 C&F Mombasa (RORO)",Year: 2007 / 5,"Mileage: 127,823 km"
-MITSUBISHI Mirage,"Price $1,970","Total Price $3,714 C&F Mombasa (RORO)",Year: 2015 / 9,"Mileage: 60,410 km"
-TOYOTA Crown,"Price $2,180","Total Price $4,406 C&F Mombasa (RORO)",Year: 2004 / 9,"Mileage: 108,333 km"
-NISSAN X-Trail,"Price $2,340","Total Price $4,708 C&F Mombasa (RORO)",Year: 2009 / 6,"Mileage: 170,759 km"
-MITSUBISHI Mirage,"Price $1,840","Total Price $3,678 C&F Mombasa (RORO)",Year: 2015 / 7,"Mileage: 114,866 km"
-TOYOTA Porte,"Price $2,140","Total Price $4,158 C&F Mombasa (RORO)",Year: 2015 / 7,"Mileage: 55,348 km"
-MAZDA CX-5,,,Year: 2012 / 6,"Mileage: 185,380 km"
-MAZDA CX-5,"Price $3,170","Total Price $5,638 C&F Mombasa (RORO)",Year: 2012 / 12,"Mileage: 265,987 km"
-MAZDA CX-5,"Price $2,710","Total Price $5,178 C&F Mombasa (RORO)",Year: 2012 / 9,"Mileage: 146,843 km"
-HONDA Acty Truck,"Price $1,570","Total Price $3,133 C&F Mombasa (RORO)",Year: 1989,"Mileage: 38,151 km"
-SUZUKI Alto,"Price $1,170","Total Price $2,787 C&F Mombasa (RORO)",Year: 2012 / 5,"Mileage: 167,894 km"
-MAZDA Demio,"Price $2,370","Total Price $4,343 C&F Mombasa (RORO)",Year: 2015 / 5,"Mileage: 212,334 km"
-BMW 1 Series,"Price $1,430","Total Price $3,414 C&F Mombasa (RORO)",Year: 2011 / 7,"Mileage: 81,131 km"
-TOYOTA Regiusace Van,"Price $4,990","Total Price $7,601 C&F Mombasa (RORO)",Year: 2007 / 7,"Mileage: 173,387 km"
-NISSAN Atlas,"Price $3,050","Total Price $5,714 C&F Mombasa (RORO)",Year: 2001 / 9,"Mileage: 53,000 km"
-TOYOTA Regiusace Van,"Price $5,060","Total Price $7,671 C&F Mombasa (RORO)",Year: 2011 / 9,"Mileage: 256,100 km"
-TOYOTA Hiace Van,"Price $5,190","Total Price $7,801 C&F Mombasa (RORO)",Year: 2006 / 4,"Mileage: 270,909 km"
+title,price,total_price,year,mileage,link
+HINO Ranger,"Price $3,800","Total Price $15,691 C&F Mombasa (RORO)",Year: 2006 / 11,"Mileage: 876,168 km",https://image-cdn.beforward.jp/medium/202312/6334963/BP896732_a59c0d.JPG?w=200
+TOYOTA Premio,"Price $7,410","Total Price $9,486 C&F Mombasa (RORO)",Year: 2017 / 2,"Mileage: 134,387 km",https://image-cdn.beforward.jp/medium/202406/7792704/BT403570_8f3eda.JPG?w=200
+TOYOTA IST,"Price $2,610","Total Price $4,486 C&F Mombasa (RORO)",Year: 2003 / 7,"Mileage: 103,358 km",https://image-cdn.beforward.jp/medium/202406/7947935/BT547119_6331be.jpg?w=200
+TOYOTA Crown,"Price $2,140","Total Price $4,360 C&F Mombasa (RORO)",Year: 2006 / 11,"Mileage: 99,639 km",https://image-cdn.beforward.jp/medium/202406/7947983/BT547123_392db1.jpg?w=200
+TOYOTA RAV4,"Price $4,920","Total Price $7,163 C&F Mombasa (RORO)",Year: 2010 / 12,"Mileage: 95,730 km",https://image-cdn.beforward.jp/medium/202406/7948941/BT547240_a9aa12.JPG?w=200
+NISSAN JUKE,"Price $2,580","Total Price $4,591 C&F Mombasa (RORO)",Year: 2013 / 6,"Mileage: 119,469 km",https://image-cdn.beforward.jp/medium/202406/7917348/BT526930_5433bf.JPG?w=200
+TOYOTA Raum,"Price $1,940","Total Price $3,837 C&F Mombasa (RORO)",Year: 2003 / 7,"Mileage: 51,663 km",https://image-cdn.beforward.jp/medium/202406/7924724/BT534029_162866.jpg?w=200
+MAZDA CX-5,"Price $2,880","Total Price $5,295 C&F Mombasa (RORO)",Year: 2014 / 11,"Mileage: 222,712 km",https://image-cdn.beforward.jp/medium/202406/7944521/BT543849_70deb2.jpg?w=200
+NISSAN JUKE,"Price $2,580","Total Price $4,608 C&F Mombasa (RORO)",Year: 2010 / 12,"Mileage: 104,817 km",https://image-cdn.beforward.jp/medium/202406/7944329/BT543879_0af8da.jpg?w=200
+TOYOTA IST,"Price $2,610","Total Price $4,445 C&F Mombasa (RORO)",Year: 2003 / 5,"Mileage: 110,900 km",https://image-cdn.beforward.jp/medium/202406/7945232/BT543901_aaae94.jpg?w=200
+TOYOTA Harrier,"Price $5,060","Total Price $7,528 C&F Mombasa (RORO)",Year: 2008 / 4,"Mileage: 108,065 km",https://image-cdn.beforward.jp/medium/202406/7944398/BT543930_ce86b5.JPG?w=200
+NISSAN JUKE,"Price $2,640","Total Price $4,668 C&F Mombasa (RORO)",Year: 2010 / 7,"Mileage: 79,875 km",https://image-cdn.beforward.jp/medium/202406/7944578/BT544076_f081b2.jpg?w=200
+MAZDA CX-5,"Price $5,130","Total Price $7,545 C&F Mombasa (RORO)",Year: 2016 / 8,"Mileage: 154,149 km",https://image-cdn.beforward.jp/medium/202406/7947989/BT547049_66cb50.jpg?w=200
+TOYOTA Wish,"Price $2,370","Total Price $4,534 C&F Mombasa (RORO)",Year: 2003 / 5,"Mileage: 34,326 km",https://image-cdn.beforward.jp/medium/202406/7948371/BT547056_bce1dc.jpg?w=200
+NISSAN X-Trail,"Price $2,040","Total Price $4,395 C&F Mombasa (RORO)",Year: 2009 / 10,"Mileage: 108,372 km",https://image-cdn.beforward.jp/medium/202406/7947930/BT547066_6750e4.jpg?w=200
+VOLVO S60,"Price $4,250","Total Price $6,480 C&F Mombasa (RORO)",Year: 2017 / 6,"Mileage: 126,945 km",https://image-cdn.beforward.jp/medium/202406/7949080/BT547076_28b3c1.jpg?w=200
+TOYOTA Vitz,"Price $1,430","Total Price $3,265 C&F Mombasa (RORO)",Year: 2005 / 5,"Mileage: 30,640 km",https://image-cdn.beforward.jp/medium/202406/7949292/BT547079_c0632e.jpg?w=200
+NISSAN JUKE,"Price $2,580","Total Price $4,685 C&F Mombasa (RORO)",Year: 2010 / 6,"Mileage: 107,857 km",https://image-cdn.beforward.jp/medium/202406/7948607/BT547306_63c7c1.jpg?w=200
+NISSAN JUKE,"Price $2,710","Total Price $4,721 C&F Mombasa (RORO)",Year: 2010 / 12,"Mileage: 68,002 km",https://image-cdn.beforward.jp/medium/202406/7959557/BT559650_aa0a3d.jpg?w=200
+NISSAN X-Trail Hybrid,"Price $5,360","Total Price $7,812 C&F Mombasa (RORO)",Year: 2017 / 3,"Mileage: 153,070 km",https://image-cdn.beforward.jp/medium/202406/7793465/BT403578_369cb9.JPG?w=200
+BMW MINI,"Price $1,870","Total Price $3,963 C&F Mombasa (RORO)",Year: 2012 / 6,"Mileage: 116,899 km",https://image-cdn.beforward.jp/medium/202406/7916799/BT527020_89452e.jpg?w=200
+MAZDA Demio,"Price $2,370","Total Price $4,289 C&F Mombasa (RORO)",Year: 2015 / 12,"Mileage: 218,567 km",https://image-cdn.beforward.jp/medium/202406/7917022/BT526801_b4e291.JPG?w=200
+NISSAN Ad Van,"Price $2,240","Total Price $4,241 C&F Mombasa (RORO)",Year: 2019 / 5,"Mileage: 128,082 km",https://image-cdn.beforward.jp/medium/202406/7917984/BT526833_3e130f.jpg?w=200
+NISSAN Ad Van,"Price $1,770","Total Price $4,006 C&F Mombasa (RORO)",Year: 2018 / 5,"Mileage: 233,086 km",https://image-cdn.beforward.jp/medium/202406/7917171/BT526848_28a806.jpg?w=200
+MAZDA CX-5,"Price $3,720","Total Price $6,141 C&F Mombasa (RORO)",Year: 2014 / 7,"Mileage: 132,860 km",https://image-cdn.beforward.jp/medium/202406/7916947/BT526900_3c76d4.JPG?w=200
+NISSAN Ad Van,"Price $2,170","Total Price $4,195 C&F Mombasa (RORO)",Year: 2019 / 5,"Mileage: 146,269 km",https://image-cdn.beforward.jp/medium/202406/7917309/BT527061_d94125.JPG?w=200
+NISSAN Ad Van,"Price $1,900","Total Price $3,884 C&F Mombasa (RORO)",Year: 2017 / 1,"Mileage: 181,290 km",https://image-cdn.beforward.jp/medium/202406/7923768/BT533441_16618e.jpg?w=200
+TOYOTA Wish,"Price $2,170","Total Price $4,293 C&F Mombasa (RORO)",Year: 2003 / 9,"Mileage: 149,665 km",https://image-cdn.beforward.jp/medium/202406/7945186/BT543973_5fbf68.jpg?w=200
+NISSAN Caravan Van,"Price $4,520","Total Price $7,094 C&F Mombasa (RORO)",Year: 2014 / 3,"Mileage: 270,781 km",https://image-cdn.beforward.jp/medium/202406/7944424/BT544002_3bed7e.jpg?w=200
+TOYOTA Raum,"Price $1,840","Total Price $3,737 C&F Mombasa (RORO)",Year: 2003 / 6,"Mileage: 75,335 km",https://image-cdn.beforward.jp/medium/202406/7948168/BT547202_f9e806.jpg?w=200
+TOYOTA Wish,"Price $2,310","Total Price $4,527 C&F Mombasa (RORO)",Year: 2003 / 12,"Mileage: 75,528 km",https://image-cdn.beforward.jp/medium/202406/7948597/BT547294_1e5eba.jpg?w=200
+AUDI A4,"Price $4,590","Total Price $6,778 C&F Mombasa (RORO)",Year: 2015 / 11,"Mileage: 102,032 km",https://image-cdn.beforward.jp/medium/202406/7916798/BT526890_f752e6.jpg?w=200
+VOLKSWAGEN Tiguan,"Price $4,390","Total Price $6,749 C&F Mombasa (RORO)",Year: 2011 / 10,"Mileage: 75,620 km",https://image-cdn.beforward.jp/medium/202406/7916773/BT526911_b8207b.jpg?w=200
+ISUZU Elf Truck,"Price $6,200","Total Price $8,847 C&F Mombasa (RORO)",Year: 2014 / 5,"Mileage: 255,000 km",https://image-cdn.beforward.jp/medium/202406/7923380/BT533459_abd860.jpg?w=200
+MITSUBISHI Canter,"Price $4,590","Total Price $7,248 C&F Mombasa (RORO)",Year: 2005 / 2,"Mileage: 528,000 km",https://image-cdn.beforward.jp/medium/202406/7923404/BT533460_245333.jpg?w=200
+TOYOTA Vanguard,"Price $4,920","Total Price $7,255 C&F Mombasa (RORO)",Year: 2010 / 8,"Mileage: 108,352 km",https://image-cdn.beforward.jp/medium/202406/7923372/BT533620_9e479c.jpg?w=200
+TOYOTA Sienta,"Price $1,640","Total Price $3,680 C&F Mombasa (RORO)",Year: 2005 / 8,"Mileage: 76,778 km",https://image-cdn.beforward.jp/medium/202406/7924400/BT533873_568b8f.JPG?w=200
+TOYOTA Vanguard,"Price $6,400","Total Price $8,793 C&F Mombasa (RORO)",Year: 2013 / 1,"Mileage: 94,886 km",https://image-cdn.beforward.jp/medium/202406/7916712/BT526906_336a6f.jpg?w=200
+SUBARU Impreza Sports,"Price $3,620","Total Price $5,674 C&F Mombasa (RORO)",Year: 2017 / 3,"Mileage: 178,585 km",https://image-cdn.beforward.jp/medium/202406/7924340/BT534001_a1e518.JPG?w=200
+BMW 3 Series,"Price $5,160","Total Price $7,463 C&F Mombasa (RORO)",Year: 2016 / 4,"Mileage: 96,075 km",https://image-cdn.beforward.jp/medium/202406/7948890/BT547097_d60816.jpg?w=200
+HONDA Crossroad,"Price $2,240","Total Price $4,440 C&F Mombasa (RORO)",Year: 2007 / 4,"Mileage: 155,379 km",https://image-cdn.beforward.jp/medium/202406/7947945/BT547120_b79d35.jpg?w=200
+NISSAN X-Trail Hybrid,"Price $7,170","Total Price $9,710 C&F Mombasa (RORO)",Year: 2017 / 7,"Mileage: 120,284 km",https://image-cdn.beforward.jp/medium/202406/7949440/BT547334_188568.jpg?w=200
+TOYOTA Alphard,"Price $2,410","Total Price $5,160 C&F Mombasa (RORO)",Year: 2007 / 6,"Mileage: 103,449 km",https://image-cdn.beforward.jp/medium/202406/7948881/BT547388_e5e1f4.jpg?w=200
+MITSUBISHI Canter,"Price $7,470","Total Price $10,091 C&F Mombasa (RORO)",Year: 1992 / 3,"Mileage: 131,508 km",https://image-cdn.beforward.jp/medium/202406/7948452/BT547481_37382c.JPG?w=200
+LEXUS LS,"Price $4,020","Total Price $6,392 C&F Mombasa (RORO)",Year: 2009 / 10,"Mileage: 132,305 km",https://image-cdn.beforward.jp/medium/202406/7946486/BT547515_eba0d7.JPG?w=200
+TOYOTA Corolla Fielder,"Price $4,690","Total Price $6,756 C&F Mombasa (RORO)",Year: 2016 / 4,"Mileage: 244,374 km",https://image-cdn.beforward.jp/medium/202406/7923647/BT533684_7ff33c.jpg?w=200
+TOYOTA Allion,"Price $3,750","Total Price $5,806 C&F Mombasa (RORO)",Year: 2008 / 9,"Mileage: 150,415 km",https://image-cdn.beforward.jp/medium/202406/7924729/BT534008_a14b15.JPG?w=200
+TOYOTA Hiace Commuter,"Price $6,970","Total Price $9,945 C&F Mombasa (RORO)",Year: 2000 / 8,"Mileage: 123,744 km",https://image-cdn.beforward.jp/medium/202406/7944417/BT544001_ce8f04.jpg?w=200
+NISSAN Cube,"Price $2,610","Total Price $4,599 C&F Mombasa (RORO)",Year: 2017 / 3,"Mileage: 168,002 km",https://image-cdn.beforward.jp/medium/202406/7948905/BT547272_760d8c.jpg?w=200
+SUBARU Legacy Touring Wagon,"Price $2,940","Total Price $5,054 C&F Mombasa (RORO)",Year: 1997 / 6,"Mileage: 25,118 km",https://image-cdn.beforward.jp/medium/202406/7946389/BT547509_b31b3a.jpg?w=200
+TOYOTA Mark X,"Price $2,610","Total Price $4,776 C&F Mombasa (RORO)",Year: 2011 / 7,"Mileage: 119,470 km",https://image-cdn.beforward.jp/medium/202406/7916680/BT526878_7372d7.jpg?w=200
+NISSAN X-Trail,"Price $5,900","Total Price $8,394 C&F Mombasa (RORO)",Year: 2015 / 3,"Mileage: 96,088 km",https://image-cdn.beforward.jp/medium/202406/7916921/BT527012_afc383.JPG?w=200
+NISSAN X-Trail,"Price $5,760","Total Price $8,227 C&F Mombasa (RORO)",Year: 2016 / 10,"Mileage: 105,037 km",https://image-cdn.beforward.jp/medium/202406/7923528/BT533691_b3ecb8.jpg?w=200
+MERCEDES-BENZ M-Class,"Price $7,640","Total Price $10,314 C&F Mombasa (RORO)",Year: 2010 / 6,"Mileage: 114,306 km",https://image-cdn.beforward.jp/medium/202406/7944397/BT544060_edad65.jpg?w=200
+VOLKSWAGEN Polo,"Price $2,340","Total Price $4,203 C&F Mombasa (RORO)",Year: 2014 / 7,"Mileage: 157,300 km",https://image-cdn.beforward.jp/medium/202406/7948240/BT547105_5468ca.jpg?w=200
+NISSAN Latio,"Price $2,810","Total Price $4,804 C&F Mombasa (RORO)",Year: 2016 / 10,"Mileage: 137,958 km",https://image-cdn.beforward.jp/medium/202406/7949013/BT547245_24c788.jpg?w=200
+BMW 1 Series,"Price $3,450","Total Price $5,511 C&F Mombasa (RORO)",Year: 2015 / 12,"Mileage: 77,765 km",https://image-cdn.beforward.jp/medium/202406/7948678/BT547312_da65f3.jpg?w=200
+HONDA Vezel,"Price $6,970","Total Price $9,124 C&F Mombasa (RORO)",Year: 2016 / 3,"Mileage: 102,840 km",https://image-cdn.beforward.jp/medium/202406/7960396/BT559557_b98bee.jpg?w=200
+TOYOTA Auris,"Price $3,180","Total Price $5,175 C&F Mombasa (RORO)",Year: 2009 / 7,"Mileage: 68,722 km",https://image-cdn.beforward.jp/medium/202406/7959195/BT559639_ea1d15.jpg?w=200
+BMW X1,"Price $2,840","Total Price $5,062 C&F Mombasa (RORO)",Year: 2010 / 11,"Mileage: 97,406 km",https://image-cdn.beforward.jp/medium/202406/7923455/BT533667_23e716.jpg?w=200

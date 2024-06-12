@@ -8,10 +8,11 @@ class Dict_Be_Forward:
     total_price: str
     year: str
     mileage: str
+    link:str
 
 class Be_Forward(Scraper):
     def __init__(self) -> None:
-        fieldnames = ["title", "price", "total_price", "year", "mileage"]
+        fieldnames = ["title", "price", "total_price", "year", "mileage", "link"]
         output_file = "data/be_forward_data.csv"
         super().__init__(fieldnames, output_file)
 
@@ -25,19 +26,26 @@ class Be_Forward(Scraper):
             total_price_elem = item.css_first("div.total-price")
             year_elem = item.css_first("div.vehicle-year")
             mileage_elem = item.css_first("div.vehicle-mileage")
+            image_elem = item.css_first("img")
 
             title = self.clean_text(title_elem.text()) if title_elem else None
             price = self.clean_text(price_elem.text()) if price_elem else None
             total_price = self.clean_text(total_price_elem.text()) if total_price_elem else None
             year = self.clean_text(year_elem.text()) if year_elem else None
             mileage = self.clean_text(mileage_elem.text()) if mileage_elem else None
+            image = image_elem.attributes.get('src') if image_elem else None
+
+            # Prepend 'https:' if the image URL starts with '//' 
+            if image and image.startswith('//'):
+                image = 'https:' + image
 
             auto = Dict_Be_Forward(
                 title=title,
                 price=price,
                 total_price=total_price,
                 year=year,
-                mileage=mileage
+                mileage=mileage,
+                link=image
             )
             results.append(asdict(auto))
         return results
